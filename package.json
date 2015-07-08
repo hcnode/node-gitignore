@@ -1,6 +1,6 @@
 {
   "name": "node-gitignore",
-  "version": "1.0.1",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "scripts": {},
@@ -8,6 +8,7 @@
     "type": "git",
     "url": "https://hcnode.github.com/node-gitignore"
   },
+  "bin": "./index.js",
   "author": "hcnode",
   "license": "MIT",
   "dependencies": {
