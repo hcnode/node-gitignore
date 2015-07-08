@@ -1,0 +1,17 @@
+{
+  "name": "node-gitignore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://hcnode.github.com/node-gitignore"
+  },
+  "author": "hcnode",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^2.8.1",
+    "request": "^2.58.0"
+  }
+}
