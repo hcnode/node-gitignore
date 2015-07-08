@@ -2,6 +2,6 @@ Create .gitignore from https://raw.githubusercontent.com/github/gitignore/master
 
 ## Usage
 ```bash
-$npm install node-gitignore -g
-$node-gitignore
+$ npm install node-gitignore -g
+$ node-gitignore
 ```
