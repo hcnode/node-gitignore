@@ -14,7 +14,7 @@ ws.on("finish", function(){
 	console.log("done.");
 });
 request
-  .get('https://raw.githubusercontent.com/github/gitignore/master/Node.gitignore')
+  .get('https://github.com/hcnode/node-gitignore/blob/master/.gitignore')
   .on('error', function(err) {
     console.log(err)
   })
